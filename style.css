@@ -1,24 +1,9 @@
 body {
     color: white;
-    background: rgb(129, 129, 129);
+    background: rgb(17, 16, 16);
     margin: 5px;
-    text-align: left;
-}
-
-p {
-    color: white;
-}
-
-.itl {
-    font-style: italic;
-}
-.icon {
-    width: 30%;
-}
-
-header {
-    border-bottom: solid 2px rgb(85, 193, 226);
-    padding: 20px;
+    text-align: center;
+    font-family: "Grechen Fuemen", serif;
     font-size: 20px;
-    text-decoration: none;
+    font-style: normal;
 }
