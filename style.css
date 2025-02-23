@@ -1,24 +1,26 @@
 body {
-    color: white;
-    background: rgb(17, 16, 16);
-    margin: 5px;
+    color: rgb(255, 177, 201);
+    background: rgb(12, 1, 4);
+    margin: 10px;
     text-align: center;
-    font-family: "Grechen Fuemen", serif;
+    font-family: "IBM Plex Mono", serif;
     font-style: normal;
 }
 
 a{
-    font-size: 40px;
+    font-size: 100px;
+    color: rgb(190, 14, 67);
 }
 
 h1{
-font-size: 50px;
+    font-size: 50px;
+    font-style: italic;
 }
 
 h2{
-font-size: 45;
+    font-size: 65;
 }
 
 p{
-font-size: 40px;
+    font-size: 45px;
 }
